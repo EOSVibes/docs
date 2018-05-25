@@ -1,5 +1,4 @@
-# STATEMENT TO COMMUNITY
-To The EOS Token Holder Community,
+# To The EOS Token Holder Community,
 
 As the launch of EOS nears, speculation within the community concerning competing EOS mainnet launches has increased. As one of many Block Producers across the world responsible for organizing and launching the EOS mainnet, we would like to put the community at ease and declare our intent for the following:
 
