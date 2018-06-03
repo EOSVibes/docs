@@ -148,6 +148,8 @@ We publish this letter in concert with following Block Producer candidates from 
 
 [EOSREAL](https://steemit.com/eos/@eosreal-io/eosreal-eos-bp-mainnet-statement)
 
+[EOSRomania](https://steemit.com/eos/@unus/eosro-bp)
+
 [EosStore](https://steemit.com/statement/@eos.store/statement-to-community)
 
 [EOSUnion](https://steemit.com/eosunion/@eosunion/eos-union-statement)
